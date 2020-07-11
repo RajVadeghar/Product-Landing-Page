@@ -22,16 +22,6 @@
     width: 100%;
     margin: 0 auto;
   }
-
-  .container2 {
-      margin-top: 100px;
-  }
-
-  @media(max-width: 48.75em) {
-      .container2 {
-          margin-top: 250px;
-      }
-  }
  /*end global declarations*/
 
  /*navbar*/
@@ -88,7 +78,7 @@
     justify-content: center;
     text-align: center;
     height: 200px;
-    margin-top: 50px;
+    margin-top: 30px;
   }
 
  #people input[type="email"] {
